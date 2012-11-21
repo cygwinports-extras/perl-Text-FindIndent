@@ -1,0 +1,10 @@
+CPAN_AUTHOR=smueller
+inherit perl
+
+NAME="perl-Text-FindIndent"
+VERSION=0.10
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl text indent style detection module"
+DESCRIPTION="This is an experimental distribution that attempts to intuit the
+underlying indent style for a text file (most likely a source code file)."
